@@ -1,0 +1,11 @@
+3
+niveau1.txt
+niveau2.txt
+niveau3.txt
+5
+1 5 porte-avion
+2 4 croiseur
+3 3 sous-marin
+4 3 corvette
+5 2 patrouilleur
+
